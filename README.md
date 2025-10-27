@@ -45,31 +45,7 @@ All tests execute against isolated databases using Jest lifecycle hooks to maint
 
 ---
 
-## How to Run the Project Locally
-
-1. Install dependencies
-
-   ```bash
-   npm install
-   ```
-
-2. Configure environment variables in a `.env` file.
-
-3. Start the backend server
-
-   ```bash
-   npm start
-   ```
-
-4. Run automated tests
-
-   ```bash
-   npm run test
-   ```
-
----
-
-## .env.example
+## .env.example ( backend )
 
 ```bash
 PORT=5000
