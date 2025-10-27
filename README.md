@@ -28,6 +28,7 @@ It uses a hybrid database structure combining MySQL for relational data and Mong
 **Command to Run Tests:**
 
 ```bash
+cd backend
 npm run test
 ```
 
